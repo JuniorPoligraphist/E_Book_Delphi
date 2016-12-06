@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<PROJECT>
+    <Item ID="ch00" Caption="В музеях світу"                      File="empty.html">
+        <Item ID="ch0001" Caption="Початок"                       File="ch0001.html"/>
+        <Item ID="ch0002" Caption="Мандруємо світом образів"      File="ch0002.html"/>
+        <Item ID="ch0003" Caption="Анотація"                      File="ch0003.html"/>
+        <Item ID="ch0004" Caption="Дорогі друзі"                  File="ch0004.html"/>
+        <Item ID="ch0005" Caption="Передмова"                     File="ch0005.html"/>
+   </Item>
+
+   <Item ID="ch01" Caption="Акрополь і Парфенон"           File="empty.html">
+        <Item ID="ch0101" Caption="Акрополь і Парфенон"    File="ch0101.html"/>
+        <Item ID="ch0102" Caption="Акрополь і Парфенон"    File="ch0102.html"/>
+        <Item ID="ch0103" Caption="Акрополь і Парфенон"    File="ch0103.html"/>
+        <Item ID="ch0104" Caption="Акрополь і Парфенон"    File="ch0104.html"/>
+        <Item ID="ch0105" Caption="Акрополь і Парфенон"    File="ch0105.html"/>
+   </Item>      
+
+   <Item ID="ch02" Caption="Ватиканські музеї"           File="empty.html">
+        <Item ID="ch0201" Caption="Ватиканські музеї"    File="ch0201.html"/>
+        <Item ID="ch0202" Caption="Ватиканські музеї"    File="ch0202.html"/>
+        <Item ID="ch0203" Caption="Ватиканські музеї"    File="ch0203.html"/>  
+   </Item>      
+
+   <Item ID="ch03" Caption="Собор Святого Петра в Римі"           File="empty.html">
+        <Item ID="ch0301" Caption="Собор Святого Петра в Римі"    File="ch0301.html"/>
+        <Item ID="ch0302" Caption="Собор Святого Петра в Римі"    File="ch0302.html"/> 
+   </Item>  
+
+   <Item ID="ch04" Caption="Галерея Уффіці у Флоренції"            File="empty.html">
+        <Item ID="ch0401" Caption="Галерея Уффіці у Флоренції"    File="ch0401.html"/>
+        <Item ID="ch0402" Caption="Галерея Уффіці у Флоренції"    File="ch0402.html"/> 
+        <Item ID="ch0403" Caption="Галерея Уффіці у Флоренції"    File="ch0403.html"/> 
+        <Item ID="ch0404" Caption="Галерея Уффіці у Флоренції"    File="ch0404.html"/> 
+   </Item>    
+
+   <Item ID="ch05" Caption="Альгамбра"             File="empty.html">
+        <Item ID="ch0501" Caption="Альгамбра"      File="ch0501.html"/>
+        <Item ID="ch0502" Caption="Альгамбра"      File="ch0502.html"/> 
+   </Item>  
+
+   <Item ID="ch06" Caption="Прадо"           File="empty.html">
+        <Item ID="ch0601" Caption="Прадо"    File="ch0601.html"/>
+        <Item ID="ch0602" Caption="Прадо"    File="ch0602.html"/> 
+        <Item ID="ch0603" Caption="Прадо"    File="ch0603.html"/> 
+        <Item ID="ch0604" Caption="Прадо"    File="ch0604.html"/> 
+        <Item ID="ch0605" Caption="Прадо"    File="ch0605.html"/> 
+   </Item>   
+
+   <Item ID="ch07" Caption="Берлінські музеї"           File="empty.html">
+        <Item ID="ch0701" Caption="Берлінські музеї"    File="ch0701.html"/>
+        <Item ID="ch0702" Caption="Берлінські музеї"    File="ch0702.html"/> 
+        <Item ID="ch0703" Caption="Берлінські музеї"    File="ch0703.html"/> 
+   </Item>  
+
+   <Item ID="ch08" Caption="Дрезденська галерея"           File="empty.html">
+        <Item ID="ch0801" Caption="Дрезденська галерея"    File="ch0801.html"/>
+        <Item ID="ch0802" Caption="Дрезденська галерея"    File="ch0802.html"/> 
+        <Item ID="ch0803" Caption="Дрезденська галерея"    File="ch0803.html"/> 
+   </Item>  
+
+
+   <Item ID="ch09" Caption="Віденський музей історії мустецтв"           File="empty.html">
+        <Item ID="ch0901" Caption="Віденський музей історії мустецтв"    File="ch0901.html"/>
+        <Item ID="ch0902" Caption="Віденський музей історії мустецтв"    File="ch0902.html"/> 
+        <Item ID="ch0903" Caption="Віденський музей історії мустецтв"    File="ch0903.html"/> 
+        <Item ID="ch0904" Caption="Віденський музей історії мустецтв"    File="ch0904.html"/> 
+   </Item> 
+
+   <Item ID="ch10" Caption="Рейксмузеум - державний музей Амстердама"           File="empty.html">
+        <Item ID="ch1001" Caption="Рейксмузеум - державний музей Амстердама"    File="ch1001.html"/>
+        <Item ID="ch1002" Caption="Рейксмузеум - державний музей Амстердама"    File="ch1002.html"/> 
+        <Item ID="ch1003" Caption="Рейксмузеум - державний музей Амстердама"    File="ch1003.html"/> 
+        <Item ID="ch1004" Caption="Рейксмузеум - державний музей Амстердама"    File="ch1004.html"/> 
+   </Item> 
+
+   <Item ID="ch11" Caption="Британський музей"           File="empty.html">
+        <Item ID="ch1101" Caption="Британський музей"    File="ch1101.html"/>
+        <Item ID="ch1102" Caption="Британський музей"    File="ch1102.html"/> 
+   </Item> 
+
+   <Item ID="ch12" Caption="Лондонська національна галерея"           File="empty.html">
+        <Item ID="ch1201" Caption="Лондонська національна галерея"    File="ch1201.html"/>
+        <Item ID="ch1202" Caption="Лондонська національна галерея"    File="ch1202.html"/> 
+        <Item ID="ch1203" Caption="Лондонська національна галерея"    File="ch1203.html"/> 
+        <Item ID="ch1204" Caption="Лондонська національна галерея"    File="ch1204.html"/>  
+   </Item>
+
+   <Item ID="ch13" Caption="Лувр"           File="empty.html">
+        <Item ID="ch1301" Caption="Лувр"    File="ch1301.html"/>
+        <Item ID="ch1302" Caption="Лувр"    File="ch1302.html"/> 
+        <Item ID="ch1303" Caption="Лувр"    File="ch1303.html"/> 
+        <Item ID="ch1304" Caption="Лувр"    File="ch1304.html"/>  
+   </Item>
+
+   <Item ID="ch14" Caption="Музей імпресіонізму в Парижі"           File="empty.html">
+        <Item ID="ch1401" Caption="Музей імпресіонізму в Парижі"    File="ch1401.html"/>
+        <Item ID="ch1402" Caption="Музей імпресіонізму в Парижі"    File="ch1402.html"/> 
+   </Item>
+
+   <Item ID="ch15" Caption="Національний художній музей України"           File="empty.html">
+        <Item ID="ch1501" Caption="Національний художній музей України"    File="ch1501.html"/>
+        <Item ID="ch1502" Caption="Національний художній музей України"    File="ch1502.html"/> 
+        <Item ID="ch1503" Caption="Національний художній музей України"    File="ch1503.html"/> 
+        <Item ID="ch1504" Caption="Національний художній музей України"    File="ch1504.html"/>  
+   </Item>
+
+  <Item ID="ch16" Caption="Ермітаж"           File="empty.html">
+        <Item ID="ch1601" Caption="Ермітаж"    File="ch1601.html"/>
+        <Item ID="ch1602" Caption="Ермітаж"    File="ch1602.html"/> 
+        <Item ID="ch1603" Caption="Ермітаж"    File="ch1603.html"/> 
+        <Item ID="ch1604" Caption="Ермітаж"    File="ch1604.html"/>  
+        <Item ID="ch1605" Caption="Ермітаж"    File="ch1605.html"/> 
+   </Item>
+
+   <Item ID="ch17" Caption="Третяковська галерея"           File="empty.html">
+        <Item ID="ch1701" Caption="Третяковська галерея"    File="ch1701.html"/>
+        <Item ID="ch1702" Caption="Третяковська галерея"    File="ch1702.html"/> 
+   </Item>
+
+   <Item ID="ch18" Caption="Храм Святої Софії у Стамбулі"           File="empty.html">
+        <Item ID="ch1801" Caption="Храм Святої Софії у Стамбулі"    File="ch1801.html"/>
+        <Item ID="ch1802" Caption="Храм Святої Софії у Стамбулі"    File="ch1802.html"/> 
+   </Item>
+
+   <Item ID="ch19" Caption="Мавзолей Тадж-Махал в Агрі"           File="empty.html">
+        <Item ID="ch1901" Caption="Мавзолей Тадж-Махал в Агрі"    File="ch1901.html"/> 
+   </Item>
+
+    <Item ID="ch20" Caption="Мечеть Омара"          File="empty.html">
+        <Item ID="ch2001" Caption="Мечеть Омара"    File="ch2001.html"/>
+        <Item ID="ch2002" Caption="Мечеть Омара"    File="ch2002.html"/> 
+   </Item>
+
+   <Item ID="ch21" Caption="Словничок"           File="empty.html">
+        <Item ID="ch2101" Caption="Словничок"    File="ch2101.html"/>
+        <Item ID="ch2102" Caption="Словничок"    File="ch2102.html"/> 
+        <Item ID="ch2103" Caption="Словничок"    File="ch2103.html"/>
+        <Item ID="ch2104" Caption="Словничок"    File="ch2104.html"/> 
+   </Item>
+
+    <Item ID="ch22" Caption="Зміст та кінець"          File="empty.html">
+        <Item ID="ch2201" Caption="Зміст та кінець"    File="ch2201.html"/>
+        <Item ID="ch2202" Caption="Зміст та кінець"    File="ch2202.html"/> 
+        <Item ID="ch2203" Caption="Зміст та кінець"    File="ch2203.html"/>  
+   </Item>
+
+</PROJECT>
